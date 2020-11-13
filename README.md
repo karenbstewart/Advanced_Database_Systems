@@ -1,6 +1,8 @@
 # Advanced_Database_Systems
 Napier University [SET09107] Advanced Databases Course - The coursework outline and NoSQL Files for a Bank System
 
+License - [![LICENSE](https://img.shields.io/github/license/karenbstewart/Advanced_Database_Systems.svg?style=flat-square)](https://github.com/karenbstewart/Advanced_Database_Systems/LICENSE)
+
 ## Coursework Scenario
 
 A bank has several branches in the UK. It needs a database to store information about its local branches. Each branch is identified by a unique branch code, an address (street, city, post code), and a phone
