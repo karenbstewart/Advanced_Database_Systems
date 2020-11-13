@@ -1,4 +1,4 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
