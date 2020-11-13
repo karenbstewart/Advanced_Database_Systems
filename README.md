@@ -1,7 +1,7 @@
 # Advanced_Database_Systems
 Napier University [SET09107] Advanced Databases Course - The coursework outline and NoSQL Files for a Bank System
 
-unique from shield.io - [![Unique](https://img.shields.io/badge/Author-Karen%20B%20Stewart-%2343c7e8.svg?style=flat-square)](https://img.shields.io/badge/Author-Karen%20B%20Stewart-%2343c7e8.svg)
+[![Unique](https://img.shields.io/badge/Author-Karen%20B%20Stewart-%2343c7e8.svg?style=flat-square)](https://img.shields.io/badge/Author-Karen%20B%20Stewart-%2343c7e8.svg)
 
 [![LICENSE](https://img.shields.io/github/license/karenbstewart/Advanced_Database_Systems.svg?style=flat-square)](https://github.com/karenbstewart/Advanced_Database_Systems/LICENSE)
 
